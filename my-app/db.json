@@ -1,0 +1,50 @@
+{
+  "news": [
+    {
+      "id": 2,
+      "name": "Footbal news",
+      "description": "How many procceses should run at once.",
+      "categories": "Sport News"
+    },
+    {
+      "id": 3,
+      "name": "Xavi was train barcelona",
+      "description": "How many procceses should run at once.",
+      "categories": "Sport News"
+    },
+    {
+      "id": 4,
+      "name": "In the world was hot nature",
+      "description": "How many procceses should run at once.",
+      "categories": "World News"
+    },
+    {
+      "id": "f3438c1f-a4b9-41a4-82f5-307f6cf51579",
+      "name": "dasdasda",
+      "description": "32342",
+      "categories": "Hot News"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Hot News",
+      "label": "Hot News",
+      "className": "btn-danger"
+    },
+    {
+      "name": "Sport News",
+      "label": "Sport News",
+      "className": "btn-primary"
+    },
+    {
+      "name": "World News",
+      "label": "World News",
+      "className": "btn-success"
+    }
+  ]
+}
